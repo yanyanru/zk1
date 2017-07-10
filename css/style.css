@@ -53,6 +53,7 @@ html, body, .wrap {
       color: #fff; }
 
 .content {
+  background: #F9F9F9;
   flex: 1;
   overflow-y: scroll; }
   .content .banner {
